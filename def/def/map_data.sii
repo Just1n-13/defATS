@@ -20,9 +20,9 @@ map_data : .map.data {
 
 	outline_color:			0xFF000000	//Route outline
 	navigation_color:		0xFF0C0CCF	//Navigation path color
-	navigation_highlight_color:	0xFF0C42DF	//Navigation path color, highligted segment
-	navigation_fade_color:		0xFF07077C	//Navigation path color, faded segment
-	navigation_arrow_color: 	0xFF06FB11	//Navigation crossroad arrows color
+	navigation_highlight_color:	0xFF1FFF10	//Navigation path color, highligted segment
+	navigation_fade_color:		0xFF305230	//Navigation path color, faded segment
+	navigation_arrow_color: 	0xFF18C40C	//Navigation crossroad arrows color
 
 	zoom_uplift[0]: 50.0		// close zoom for 3d map
 	zoom_uplift[1]: 220.0		// far zoom for 3d map
